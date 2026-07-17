@@ -129,7 +129,7 @@ Developed an interactive dashboard including:
 - KPI Cards
 - Interactive Filters
 
-- ![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/cd4c281f49dc78d6e3f9c6f2acd42bc515b450b4/OVERVIEW.png)
+- ![](https://github.com/mynameissajil-pixel/Customer_Behavior_Analysis-Python-PostgreSQL-powerBI-/blob/a96e9d50a421059feed2dbfd6bd336089c590238/dashboard.png)
 
 ---
 
