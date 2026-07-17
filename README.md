@@ -129,6 +129,8 @@ Developed an interactive dashboard including:
 - KPI Cards
 - Interactive Filters
 
+- ![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/cd4c281f49dc78d6e3f9c6f2acd42bc515b450b4/OVERVIEW.png)
+
 ---
 
 ### 6️⃣ Report & Presentation
