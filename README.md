@@ -16,6 +16,8 @@ The objective of this project is to analyze customer shopping behavior and extra
 - Business Report Creation
 - Presentation using Gamma
 
+  ![Project Workflow](https://github.com/user-attachments/assets/8bbd5dc9-eb6c-40c1-8f19-c08b4107f654)
+
 ---
 
 ## 📂 Dataset
